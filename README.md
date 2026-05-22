@@ -32,3 +32,14 @@ A cinematic-style restaurant website focused on modern frontend design and smoot
 ## 👨‍💻 Author
 
 Pratik Creates
+---
+## 📸 Screenshots
+
+### Hero Section
+![Home](screenshots/Home-preview.png)
+
+### Menu Section
+![Menu](screenshots/menu-section.png)
+
+### Mobile Responsive View
+![About](/about-section.png)
