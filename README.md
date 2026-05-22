@@ -36,10 +36,10 @@ Pratik Creates
 ## 📸 Screenshots
 
 ### Home Preview
-![Home](screenshots/Home-preview.png)
+![Home](screenshots/home-preview.png)
 
 ### Menu Section
 ![Menu](screenshots/menu-section.png)
 
-### About Section 
-![About](screenshots/about-section.png)
+### Responsive Section 
+![Responsive](screenshots/responsive-section.png)
