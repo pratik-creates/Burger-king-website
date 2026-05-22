@@ -35,11 +35,11 @@ Pratik Creates
 ---
 ## 📸 Screenshots
 
-### Hero Section
+### Home Preview
 ![Home](screenshots/Home-preview.png)
 
 ### Menu Section
 ![Menu](screenshots/menu-section.png)
 
-### Mobile Responsive View
-![About](/about-section.png)
+### About Section 
+![About](screenshots/about-section.png)
